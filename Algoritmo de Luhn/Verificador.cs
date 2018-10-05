@@ -106,7 +106,7 @@ namespace Algoritmo_de_Luhn
                 {
                     cardType = "MasterCard: ";
                 }
-                else if (auxCard.Remove(1) == "4" && (auxCard.Length == 16 || auxCard.Length == 15))
+                else if (auxCard.Remove(1) == "4" && (auxCard.Length == 16 || auxCard.Length == 13))
                 {
                     cardType = "Visa: ";
                 }
