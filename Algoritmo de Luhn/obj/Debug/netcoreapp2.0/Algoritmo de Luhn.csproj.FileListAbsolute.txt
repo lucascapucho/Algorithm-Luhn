@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\bin\Debug\netcoreapp2.0\Algoritmo de Luhn.deps.json
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\bin\Debug\netcoreapp2.0\Algoritmo de Luhn.runtimeconfig.json
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\bin\Debug\netcoreapp2.0\Algoritmo de Luhn.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\bin\Debug\netcoreapp2.0\Algoritmo de Luhn.dll
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\bin\Debug\netcoreapp2.0\Algoritmo de Luhn.pdb
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\obj\Debug\netcoreapp2.0\Algoritmo de Luhn.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\obj\Debug\netcoreapp2.0\Algoritmo de Luhn.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\obj\Debug\netcoreapp2.0\Algoritmo de Luhn.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\obj\Debug\netcoreapp2.0\Algoritmo de Luhn.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\obj\Debug\netcoreapp2.0\Algoritmo de Luhn.dll
+C:\Users\Lucas\source\repos\Algoritmo de Luhn\Algoritmo de Luhn\obj\Debug\netcoreapp2.0\Algoritmo de Luhn.pdb
